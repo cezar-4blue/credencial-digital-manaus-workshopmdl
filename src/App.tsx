@@ -50,7 +50,7 @@ export default function App() {
                 Gere sua <br /><span className="neon-text">Credencial Digital</span>
               </h1>
               <p className="text-muted-foreground text-lg max-w-md text-center">
-                Preencha seus dados para gerar sua credencial de acesso exclusiva ao evento presencial em Manaus (28/07).
+                Preencha seus dados para gerar sua credencial de acesso exclusiva ao evento presencial em Manaus /AM.
               </p>
             </div>
 
